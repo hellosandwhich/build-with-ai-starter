@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets - Financial Markets & Screener Terminal",
+  "description": "Institutional-grade financial market overview, real-time quotes, multi-asset screener, interactive technical charts, heatmaps, and economic data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
